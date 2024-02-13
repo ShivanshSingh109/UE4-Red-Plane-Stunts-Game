@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "RemoteSession",
+			"Enabled": true
+		},
+		{
+			"Name": "AlembicImporter",
+			"Enabled": false
+		},
+		{
+			"Name": "AppleMoviePlayer",
+			"Enabled": false
+		}
+	]
+}
